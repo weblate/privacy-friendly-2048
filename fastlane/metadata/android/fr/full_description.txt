@@ -1,0 +1,27 @@
+Cette application pour Android permet de jouer au jeu 2048 dans le respect de votre vie privée. Le but de ce jeu est d'atteindre le nombre 2048 en combinant des nombres identiques.
+
+Une fonctionnalité de statistiques est intégrée à l'application. Elle permet d'obtenir des informations sur votre style de jeu, comme la façon dont vous jouez vos coups et le score maximal atteint dans un mode de jeu.
+
+L'application 2048 respectueuse de la vie privée comporte quatre modes de jeu différents :
+
+classique : 4x4
+large : 5x5
+énorme : 6x6
+gigantesque : 7x7
+
+Le programme en arrière-plan ajoute un nombre supplémentaire (2 ou 4) à la grille à la fin de chaque tour. À partir de ces nombres, il est possible d'obtenir le nombre 2048, voire des nombres plus grands.
+
+Cette application offre également la possibilité de sauvegarder une partie dans chaque mode de jeu respectif, permettant la sauvegarde de quatre parties au total. Une autre fonctionnalité est la possibilité d'annuler le dernier coup joué. Enfin, un résumé des performances des dernières parties dans chaque mode de jeu peut être consulté grâce à la fonctionnalité de statistiques.
+
+Notre application respectueuse de la vie privée se distingue des autres applications similaires en deux points :
+
+1. Pas de permissions requises :
+L'application 2048 respectueuse de la vie privée ne demande aucune permission à votre appareil.
+2. Pas de publicité :
+De nombreuses applications "gratuites" similaires présentes sur le Google Play Store sont inondées de publicités épuisantes, qui ont pour externalité négative de réduire l'autonomie de votre appareil.
+
+
+N'hésitez pas à nous contacter depuis :
+Twitter - @SECUSOResearch https ://twitter.com/secusoresearch
+Mastodon - @SECUSO_Research@bawü.social https ://xn--baw-joa.social/@SECUSO_Research/
+Offres d'emploi - https ://secuso.aifb.kit.edu/english/Job_Offers_1557.php
