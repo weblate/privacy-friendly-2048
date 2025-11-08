@@ -1,0 +1,26 @@
+O aplicativo para Android Privacy Friendly 2048 é um emocionante jogo de quebra-cabeça. O objetivo é vencer ao alcançar o número 2048 deslizando números iguais.
+
+O aplicativo também possui uma função de estatísticas, que permite obter informações como o número de deslizes necessários e a maior pontuação alcançada.
+
+O Privacy Friendly 2048 oferece quatro modos de jogo diferentes:
+
+Clássico: 4x4
+Grande: 5x5
+Maior: 6x6
+Enorme: 7x7
+
+Um gerador em segundo plano exibe aleatoriamente um número a cada rodada (2 ou 4). Com a ajuda desses números, é possível alcançar o número 2048 e até mesmo potências de dois maiores. Para obter ajuda e dicas, visite este site.
+
+Este aplicativo também oferece a possibilidade de salvar o jogo no modo escolhido, permitindo um total de até quatro jogos salvos. A função de desfazer uma jogada também está disponível.  Além disso, um resumo do desempenho nos diferentes modos pode ser encontrado na função de estatísticas.
+
+Nosso aplicativo "Privacidade Amigável" difere de outros aplicativos semelhantes em dois aspectos:
+
+1. Sem permissões:
+O "Privacidade Amigável" 2048 não utiliza nenhuma permissão.
+2. Sem anúncios:
+Muitos outros aplicativos gratuitos na Google Play Store exibem anúncios irritantes que também reduzem a duração da bateria.
+
+Sinta-se à vontade para entrar em contato conosco através de:
+Twitter - @SECUSOResearch https://twitter.com/secusoresearch
+Mastodon - @SECUSO_Research@bawü.social https://xn--baw-joa.social/@SECUSO_Research/
+Vaga de emprego - https://secuso.aifb.kit.edu/english/Job_Offers_1557.php
