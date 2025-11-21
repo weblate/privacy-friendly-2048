@@ -3,7 +3,7 @@
     <string name="settings_display">Skru på skjermlås</string>
     <string name="Stat_Time">Spilltid</string>
     <string name="help_permission_answer">Dette programmet krever ikke noen tilganger.</string>
-    <string name="about_author_contributors">og bidragsytere.</string>
+    <string name="about_author_contributors">og medvirkende.</string>
     <string name="Tutorial_Titel">Velkommen.</string>
     <string name="help_color_answer">I kapittelet for oppsett finnes det et alternativ for endring mellom spillets to fargepaletter.</string>
     <string name="help_whatis">Hva er Personvernsvennlig 2048\?</string>
@@ -26,16 +26,16 @@
     <string name="title_activity_game">2048</string>
     <string name="app_name_long">Personvernsvennlig 2048</string>
     <string name="Tutorial_Titel_Move">Lær hvordan du flytter tallene.</string>
-    <string name="navigation_drawer_close">Lukk navigasjonsskuff</string>
+    <string name="navigation_drawer_close">Lukk navigasjonsmeny</string>
     <string name="settings_color">Velg fargedrakt</string>
     <string name="Titel_L_Message">Oppnådd poengsum: %1$d</string>
-    <string name="navigation_drawer_open">Åpne navigasjonsskuff</string>
+    <string name="navigation_drawer_open">Åpne navigasjonsmeny</string>
     <string name="Titel_V_Message">Seier</string>
     <string name="Tutorial_Titel_Add">Hvordan kombinere tall.</string>
     <string name="action_tutorial">Veiledning</string>
     <string name="help_play_how_answer">Dra på skjermen med fingeren i retningen du ønsker å flytte tallet.</string>
     <string name="Stat_Swipes_Left">Venstre</string>
-    <string name="more_info">Mer info er å finne i:</string>
+    <string name="more_info">Mer informasjon finner du på:</string>
     <string name="help">Hjelp</string>
     <string name="help_whatis_answer">En personvernsvennlig versjon av det originale spillet 2048. Det har samme funksjoner uten å stjele data fra brukeren.</string>
     <string name="version">Versjon:</string>
@@ -59,7 +59,7 @@
     <string name="action_stat">Statistikk</string>
     <string name="action_help">Hjelp</string>
     <string name="help_permission">Hvilke tilganger krever programmet\?</string>
-    <string name="okay">OK</string>
+    <string name="okay">Ok</string>
     <string name="Stat_Swipes_Right">Høyre</string>
     <string name="help_privacy">Hva gjør programmet personvernsvennlig\?</string>
     <string name="help_play_how">Hvordan flytter jeg tallene\?</string>
