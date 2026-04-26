@@ -12,7 +12,7 @@
     <string name="title_activity_game">2048</string>
     <string name="help">Pomoc</string>
     <string name="help_color">Jak mogę zmienić spektrum kolorów gry?</string>
-    <string name="help_color_answer">W konfiguracji rozdziału znajduje się opcja umożliwiająca zmianę pomiędzy dwoma widmami kolorów w grze.</string>
+    <string name="help_color_answer">W konfiguracjach rozdziałów jest dostępna opcja zmiany pomiędzy dwoma widmami kolorów dla gry.</string>
     <string name="help_play">Jaki jest cel tej gry?</string>
     <string name="help_play_how">Jak przesunąć liczby?</string>
     <string name="help_play_how_answer">Przesuń palcem po wyświetlaczu w kierunku, w którym chcesz, aby przesunęły się liczby.</string>
@@ -55,7 +55,7 @@
     <string name="swipe_down">Przesuń w dół</string>
     <string name="undo">Cofnij</string>
     <string name="help_tip_answer">Istnieje kilka strategii, aby wygrać tę grę. Na YouTube możesz znaleźć wiele filmów, które obejmują ten temat.</string>
-    <string name="okay">OK</string>
+    <string name="okay">Ok</string>
     <string name="help_play_add_answer">Jeżeli dodamy do siebie dwie takie same liczby, ich suma będzie równa najbliższej wyższej potędze liczby dwa.</string>
     <string name="navigation_drawer_close">Zamknij szufladę nawigacji</string>
     <string name="help_whatis">Co to jest Aplikacja Przyjazna Prywatności 2048?</string>
